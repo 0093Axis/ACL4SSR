@@ -11,6 +11,7 @@ name: Merge-upstream
 on:
   schedule:
     - cron: 43 21 * * *
+  repository_dispatch:
   workflow_dispatch:
 
 jobs:
