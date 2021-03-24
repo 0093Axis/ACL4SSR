@@ -9,11 +9,9 @@
 name: Merge-upstream
 
 on:
-  push:
-    branches: 
-      - master
   schedule:
-    - cron: 30 19 * * *
+    - cron: 43 21 * * *
+  workflow_dispatch:
 
 jobs:
 
