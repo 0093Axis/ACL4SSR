@@ -1,0 +1,25 @@
+payload:
+  # Tachiyomi
+  
+  # 拷贝漫画
+  - DOMAIN-SUFFIX,copymanga.com
+  - DOMAIN-SUFFIX,mangafunc.fun
+
+  # 漫画柜
+  - DOMAIN-SUFFIX,manhuagui.com
+  - DOMAIN-SUFFIX,mhgui.com
+  - DOMAIN-SUFFIX,hamreus.com
+
+  # 漫画人
+  - DOMAIN-SUFFIX,manhuaren.com
+  - DOMAIN-SUFFIX,dm5.com
+  - DOMAIN-SUFFIX,1kkk.com
+  - DOMAIN-SUFFIX,cdndm5.com
+  - DOMAIN-SUFFIX,cdnmanhua.net
+
+  # COCO漫画
+  - DOMAIN-SUFFIX,onemanhua.com
+  - DOMAIN-SUFFIX,cocomanhua.com
+
+  # MangaBZ
+  - DOMAIN-SUFFIX,mangabz.com
